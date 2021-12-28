@@ -1,7 +1,7 @@
-# ProtonAOSP (aosp-oriole-user)
+# ProtonAOSP
 
 ## Download
-[Download](https://github.com/Me0wLab/oriole-volte-kor-test/releases/tag/ProtonAOSP_aosp-user_v1)
+[Download Inital Build](https://github.com/Me0wLab/oriole-volte-kor-test/releases/tag/ProtonAOSP_aosp-user_v1)
 
 ## Patch Method
 Add
@@ -13,14 +13,17 @@ at src/device/google/raviole/device-oriole.mk
 
 ## Status
 - [x] Initial Build
->>> VOLTE Provisioning enabled.
+> VOLTE Provisioning enabled.
 
->>> Cannot see VOLTE Toggle on Settings App
+> Cannot see VOLTE Toggle on Settings App
 
->>> Cannot enable VOLTE
+> Cannot enable VOLTE
 
 ## TODO
-- [ ] Adding more Properties | [Reference](https://github.com/edgd1er/voenabler/blob/master/system.prop)
+- [ ] Build with Proprietary Blobs
+- [] Factory image
+- [ ] (Optional) Adding more properties (If not woking with Proprietary IMS Service) | [Reference](https://github.com/edgd1er/voenabler/blob/master/system.prop)
+
 ## How to Flash
 Before flashing, Make sure that your bootloader is `unlocked`.
 1. `fastboot flash boot $PATH/boot.img`

@@ -6,13 +6,11 @@
 
 ## ROMs to test
 * CalyxOS
-* GrapheneOS (with aosp-oriole-user Build)
-* ProtonAOSP (with aosp-oriole-user Build)
+* GrapheneOS
+* ProtonAOSP 
 
 ## TODO
-- [ ] CalyxOS (Not Released yet)
-- [ ] GrapheneOS
-- [ ] GrapheneOS_aosp-oriole-user (Ongoing)
-- [ ] ProtonAOSP
-- [x] ProtonAOSP_aosp-oriole-user
-- [ ] Verified Boot
+- [ ] CalyxOS (Not Released yet, soon)
+- [ ] GrapheneOS (Doesn't provide Proprietary/Vendor Extraction Tool yet)
+- [x] ProtonAOSP (Ongoing)
+- [ ] Verified Boot [Reference: GrapheneOS Build Instruction, CalyxOS Build Instruction]
