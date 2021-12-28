@@ -21,7 +21,8 @@ at src/device/google/raviole/device-oriole.mk
 
 ## TODO
 - [ ] Build with Proprietary Blobs
-- [] Factory image
+- [ ] Build Factory image
+- [ ] (Optional) Verified Boot
 - [ ] (Optional) Adding more properties (If not woking with Proprietary IMS Service) | [Reference](https://github.com/edgd1er/voenabler/blob/master/system.prop)
 
 ## How to Flash
