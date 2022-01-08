@@ -20,10 +20,12 @@ at src/device/google/raviole/device-oriole.mk
 > Cannot enable VOLTE
 
 ## TODO
-- [ ] Build with Proprietary Blobs
+- [x] Build with Proprietary Blobs
+> Built with Proprietary Blobs provided by Google. Nothing changed
 - [ ] Build Factory image
 - [ ] (Optional) Verified Boot
-- [ ] (Optional) Adding more properties (If not woking with Proprietary IMS Service) | [Reference](https://github.com/edgd1er/voenabler/blob/master/system.prop)
+- [x] (Optional) Adding more properties (If not woking with Proprietary IMS Service) | [Reference](https://github.com/edgd1er/voenabler/blob/master/system.prop)
+> Nothing changed
 
 ## How to Flash
 Before flashing, Make sure that your bootloader is `unlocked`.
