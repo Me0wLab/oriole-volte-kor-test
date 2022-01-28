@@ -19,3 +19,8 @@
 > Successfully built with aosp_oriole-user and VOLTE Provisioning enabled but, VOLTE doesn't work.
 
 > Possible Causes: Missing Proprietary files provided by Google, Wrong APN
+
+- [ ] GrapheneOS
+> Doesn't support VOLTE by default
+> 
+> When Sandboxed Play Service's Geolocation API is implemented, I'll try building it.
