@@ -23,4 +23,4 @@
 - [ ] GrapheneOS
 > Doesn't support VOLTE by default
 > 
-> When Sandboxed Play Service's Geolocation API is implemented, I'll try building it.
+> https://github.com/GrapheneOS/os-issue-tracker/issues/956
