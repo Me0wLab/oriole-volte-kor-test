@@ -8,6 +8,13 @@
 * CalyxOS
 * ProtonAOSP 
 
+## Solution
+
+[pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch)
+> This app uses Shizuku and override carrierconfig without ROOT.
+
+
+
 ## TODO
 - [x] CalyxOS (Official Build supports VOLTE without modding)
 > Official CalyxOS Build supports VOLTE without modifying build.prop.
@@ -20,7 +27,7 @@
 
 > Possible Causes: Missing Proprietary files provided by Google, Wrong APN
 
-- [ ] GrapheneOS
+- [x] GrapheneOS
 > Doesn't support VOLTE by default
 > 
 > https://github.com/GrapheneOS/os-issue-tracker/issues/956
